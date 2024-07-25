@@ -5,3 +5,4 @@
  -Added: Text editing tags
  -Added: Containers.html
  -Added: List.html
+ -Added: Tables.html
