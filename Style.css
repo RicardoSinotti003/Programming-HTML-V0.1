@@ -1,0 +1,19 @@
+.button-submit {
+    color: white;
+    background-color: green;
+}
+.button-reset {
+    color: white;
+    background-color: red;
+}
+.body {
+    color: white;
+    background-color: black;
+}
+.go-to-home {
+    color: yellow;
+}
+.textarea {
+    color: black;
+    background-color: yellow;
+}

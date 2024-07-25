@@ -11,3 +11,5 @@
 *07/25/2024
 -Added: Forms.html
 -Added: Midia.html
+-Implementation of CSS to HTML.
+-Added: Style.css
