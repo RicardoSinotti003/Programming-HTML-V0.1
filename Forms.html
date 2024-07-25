@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+    <header>
+        <h1>Forms</h1>
+        <nav>
+            <a href="/index.html" title="Go to Home">Go to Home</a>
+        </nav>
+    </header>
+    <main>
+        <form>
+            <label for="Name">Your name:</label>
+            <input id="Name" type="text" placeholder="Your name" /><br /><hr />
+            <label for="E-mail">Your e-mail:</label>
+            <input id="E-mail" type="email" placeholder="Your e-mail"/><br /><hr />
+            <label for="password">Your password:</label>
+            <input id="password" type="password" placeholder="Your password" /><br /><hr />
+            <label for="Cell">Your cell phone number:</label>
+            <input id="Cell" type="tel" placeholder="Your cell phone number"/><br /><hr />
+            <label for="Random-number">Select a random number:</label>
+            <input id="Random-number" type="number" placeholder="Select number" /><br /><hr />
+            <input type="number" min="-10" max="10" placeholder="Select number" /> :Limited number<br /><hr />
+            <input type="number" step="3" placeholder="Select number" /> :Limited number 3 to 3<br /><hr />
+            <label for="File">Attach the file:</label>
+            <input id="File" type="file" /><br /><hr />
+            <label for="Color">Select any color:</label>
+            <input id="Color" type="color" /><br /><hr />
+            <input id="Accept-terms" type="checkbox"/><label for="Accept-terms">I accept the terms of use.</label><br /><hr />
+            <label>Select the film genre:</label>
+            <input id="Comedy" name="favorite-movie" type="radio" /><label for="Comedy">:Comedy</label>
+            <input id="Horror" name="favorite-movie" type="radio" /><label for="Horror">:Horror</label>
+            <input id="Action" name="favorite-movie" type="radio" /><label for="Action">:Action</label>
+            <input id="Others" name="favorite-movie" type="radio" /><label for="Others">:Others</label><br /><hr />
+            <label>Favorite Color "SEPARATELY"</label>
+            <select>
+                <option>Color A</option>
+                <option>Color B</option>
+                <option>Color C</option>
+            </select><br />
+            <label>Favorite Color "TOGETHER"</label>
+            <select multiple>
+                <option>Color A</option>
+                <option>Color B</option>
+                <option>Color C</option>
+            </select><br /><hr />
+            <textarea placeholder="Your feedback!"></textarea><button type="submit">Send Form</button><button type="reset">Clear Form</button><br /><hr />
+        </form>
+    </main>
+</body>
+</html>
