@@ -21,4 +21,28 @@
     color: gold;
     background-color: blue;
     margin: 0;
+    border: 1px solid black;
+}
+.lorem {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+.list1 {
+    color: gold;
+    background-color: black;
+    margin: 0px 20px 0px 0px;
+    display: inline;
+}
+.list2 {
+    color: black;
+    background-color: yellow;
+    margin: 0px 20px 0px 0px;
+    display: inline;
+}
+.container {
+    width: 1366px;
+    margin: 0px auto 0px auto;
+    color: white;
+    background-color: black;
 }
