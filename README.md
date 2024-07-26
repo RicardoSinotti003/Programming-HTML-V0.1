@@ -13,3 +13,5 @@
 -Added: Midia.html<br />
 -Implementation of CSS to HTML.<br />
 -Added: Style.css<br />
+-Organization README<br />
+<hr />
