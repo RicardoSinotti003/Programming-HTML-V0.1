@@ -3,7 +3,7 @@
 *UPDATES*
 
 *07/24/2024
- -Added: Text editing tags
+ -Added: Text editing tags<br />
  -Added: Containers.html
  -Added: List.html
  -Added: Tables.html
