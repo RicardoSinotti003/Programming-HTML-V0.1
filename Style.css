@@ -46,3 +46,21 @@
     color: white;
     background-color: black;
 }
+.success-message{
+    color: white;
+    background-color: rgba(1, 211, 1, 0.827);
+    margin: 0;
+    width: 1366px;
+    padding: 16px;
+    box-sizing: border-box;
+    display: none;
+}
+.fail-message{
+    color: white;
+    background-color: rgba(211, 1, 1, 0.827);
+    margin: 0;
+    width: 1366px;
+    padding: 16px;
+    box-sizing: border-box;
+    display: none;
+}
