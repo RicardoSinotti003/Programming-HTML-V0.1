@@ -15,3 +15,6 @@
 -Added: Style.css<br />
 -Organization README<br />
 <hr />
+*07/28/2024<br />
+-Added: index.js ; including JavaScript to HTML.<br />
+-Added: forms.js ; Creared a separate file. <br />
